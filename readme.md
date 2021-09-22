@@ -54,6 +54,8 @@ Multi-Signature Tutorial
 
 ## 3. Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
 
+Select the second.
+
 ```
 const keyManager = require('./key-manager');
 const TRANSFER_AMOUNT = process.env.TRANSFER_AMOUNT || 2500000000;
